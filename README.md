@@ -1,6 +1,6 @@
 # Documentation for user.wifi code
 
-This is the documentation for the user.wifi backend infrastructure.  If you’ve found this from a search online for user.wifi, and would like to use the service [read this] () If you’d like to implement user.wifi at a site where you offer guest wifi [read this] (https://governmenttechnology.blog.gov.uk/2016/06/17/wi-fi-security-and-government-wide-roaming-solutions/).
+This is the documentation for the user.wifi backend infrastructure.  If you’ve found this from a search online for user.wifi, and would like to use the service [read this] (). If you’d like to implement user.wifi at a site where you offer guest wifi [read this](https://governmenttechnology.blog.gov.uk/2016/06/17/wi-fi-security-and-government-wide-roaming-solutions/).
 
 Note there are multiple copies of this repo, the one under AlistairHCowan in github is the master at the time of writing.
 
@@ -71,7 +71,7 @@ Sadly, because Cisco suck, we use fixed IP addresses for connectivity to the RAD
 
 _Q: where does the kiosk docker instance fit into this?_
 
-[AWS account] (https://344618620317.signin.aws.amazon.com/console)
+[AWS account](https://344618620317.signin.aws.amazon.com/console)
 
 SSH dev/test/management host 
 
